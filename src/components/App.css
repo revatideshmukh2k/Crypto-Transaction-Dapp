@@ -1,0 +1,11 @@
+/* Styles go here */
+
+h1{
+  background-color: #343a40 !important;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:aliceblue;
+ 
+}
+html{
+    box-sizing: border-box  !important;
+}
